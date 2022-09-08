@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fb885f-86be-409f-a562-b709921f75c6" name="Changes" comment="Hello me" />
+    <list default="true" id="46fb885f-86be-409f-a562-b709921f75c6" name="Changes" comment="Add Readme file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662656751580</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Readme file">
+      <created>1662657311612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662657311612</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +89,8 @@
     <MESSAGE value="My first commit on GitHub" />
     <MESSAGE value="Create variable hello" />
     <MESSAGE value="Hello me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello me" />
+    <MESSAGE value="Add Readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Readme file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
